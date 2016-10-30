@@ -1,0 +1,26 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+by Clariz Mariano
+
+
+0. Dimensions the frame work allows:
+    - 3x3
+    - 4x4
+    - 5x5
+    - 6x6
+    - 7x7
+    - 8x8
+    - 9x9
+
+1. The data structure used in the game's board is a 2D array.
+
+2. greet() is the function that greets the player at game's start.
+
+3. Functions to be implemented:
+    - init
+    - draw
+    - move 
+    - won 
